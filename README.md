@@ -3,13 +3,14 @@
 ## Descripción
 Esta aplicacion permite ver alumnos y cursos
 
+## Instalación
+1. Clona este repositorio en tu máquina local.
+2. Abre una terminal y navega hasta el directorio raíz de la aplicación.
+3. Ejecuta el siguiente comando para instalar las dependencias necesarias:
+
 bash 
 npm install
-## Configuración
-1. Crea un archivo `.env` en el directorio raíz de la aplicación.
-2. Configura las variables de entorno necesarias en el archivo `.env`. Por ejemplo:
-API_KEY=your_api_key 
-BASE_URL=https://api.example.com
+
 ## Pasos para el Building
 1. Ejecuta el siguiente comando para iniciar el servidor de desarrollo:
 bash 
