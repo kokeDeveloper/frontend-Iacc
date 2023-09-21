@@ -3,10 +3,6 @@
 ## Descripción
 Esta aplicacion permite ver alumnos y cursos
 
-## Instalación
-1. Clona este repositorio en tu máquina local.
-2. Abre una terminal y navega hasta el directorio raíz de la aplicación.
-3. Ejecuta el siguiente comando para instalar las dependencias necesarias:
 bash 
 npm install
 ## Configuración
