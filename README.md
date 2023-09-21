@@ -28,13 +28,3 @@ bash
 npm run start
 5. Visita `http://localhost:3000` en tu navegador para ver la aplicación en modo de producción.
 
-## Contribución
-Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
-1. Haz un fork de este repositorio.
-2. Crea una nueva rama (`git checkout -b feature/nueva-funcionalidad`).
-3. Realiza tus cambios y realiza commit de los mismos (`git commit -am 'Agrega nueva funcionalidad'`).
-4. Haz push de la rama (`git push origin feature/nueva-funcionalidad`).
-5. Abre un pull request en este repositorio.
-
-## Licencia
-Este proyecto está bajo la Licencia [Nombre de la Licencia]. Ver el archivo LICENSE.md para más detalles.
