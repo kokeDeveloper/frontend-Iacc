@@ -1,4 +1,4 @@
-# Frontend con Next.js
+# Frontend con Next.js / Jorge Toledo Carvajal
 
 ## Descripción
 Esta aplicacion permite ver alumnos y cursos
