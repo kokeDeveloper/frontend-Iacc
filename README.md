@@ -29,3 +29,5 @@ npm run start
 
 7. Visita `http://localhost:3000` en tu navegador para ver la aplicación en modo de producción.
 
+8. No olvides iniciar los servicios de la API con Nestjs ('http://localhost:3001')
+
